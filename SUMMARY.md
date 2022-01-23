@@ -9,7 +9,7 @@
 * [Lars Kuhtz](best-of-team/lars-kuhtz.md)
 * [Doug Beardsley](best-of-team/doug-beardsley.md)
 
-## 📁 General Topics
+## 🗃 General Topics
 
 * [Proof of Stake bad](general-topics/proof-of-stake-bad.md)
 * [Layer 2 bad](general-topics/layer-2-bad.md)
