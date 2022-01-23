@@ -1,0 +1,7 @@
+# Energy / Enviroment
+
+The argument "this thing uses a lot of electricity therefore it is bad" is not convincing to me. You can make that argument about lots of things. For instance, "public transportation systems use a lot of electricity, therefore they are bad". This argument is obviously wrong because public transportation systems are actually some of the cleanest and most efficient transportation systems we have. If you shut down all the public transit people would switch back to driving which consumes MUCH more energy and because a lot of that is not clean energy is MUCH MUCH worse for the environment.
+
+So it's not sufficient to just say that something uses a lot of electricity. You have to look at how much electricity it uses compared to other options. Hence the comment above of "how much electricity does the banking industry use worldwide".
+
+We can't transmit energy around the world for free. We also can't transmit gold or any other store of value around the world for free. But proof of work done with very cheap electricity right next to a hydro plant CAN be used anywhere in the world for payments and value transfer. This is huge. It's like putting all the armored trucks in Kansas or somewhere where it's flat and they are the most efficient and being able to leverage their efficiency in some mountainous region on the other side of the world. There's obviously no way that can possibly work with armored trucks. But that is exactly what is happening with proof of work! It's really quite amazing.
