@@ -2,14 +2,14 @@
 
 * [Kadena Reseach](README.md)
 
-## Best of Team
+## ⛓ Best of Team
 
 * [Will Martino](best-of-team/will-martino.md)
 * [Stuart Popejoy](best-of-team/stuart-popejoy.md)
 * [Lars Kuhtz](best-of-team/lars-kuhtz.md)
 * [Doug Beardsley](best-of-team/doug-beardsley.md)
 
-## General Topics
+## 📁 General Topics
 
 * [Proof of Stake bad](general-topics/proof-of-stake-bad.md)
 * [Layer 2 bad](general-topics/layer-2-bad.md)
@@ -30,7 +30,12 @@
 * [KADDEX](general-topics/kaddex.md)
 * [Best of Whitepaper](general-topics/best-of-whitepaper.md)
 
-## Other Crypto Projects
+## 🪙 Other Crypto Projects
 
 * [ETH ENDGAME](other-crypto-projects/eth-endgame.md)
 * [Thorchain](other-crypto-projects/thorchain.md)
+
+## 🎙 AMAs
+
+* [Video](amas/video.md)
+* [Audio](amas/audio.md)
