@@ -22,6 +22,7 @@
   * [ASICs](general-topics/chainweb/asics.md)
   * [Security](general-topics/chainweb/security.md)
   * [State Size Problem](general-topics/chainweb/state-size-problem.md)
+  * [Multi Algo](general-topics/chainweb/multi-algo.md)
   * [Account Names](general-topics/chainweb/account-names.md)
   * [Bridge](general-topics/chainweb/bridge.md)
 * [Privacy](general-topics/privacy.md)

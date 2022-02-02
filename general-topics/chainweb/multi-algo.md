@@ -1,0 +1,3 @@
+# Multi Algo
+
+To be a touch snarky, the goal with solving the multi-algo coexistence problem is _enforced decentralization_. All mining ecosystems are too centralized for my taste, even CPU/GPU only groups. What we have a shot at doing is making a large umbrella that _different_ ASIC farms + _GPU community_ + _CPU community_ could coexist under. This, to me, is far more decentralized than anything we see in any other project at the moment. The idea that bitmain could be 20% of the hashrate for KDA but never go above that (because the don't specialize in the other types of mining that KDA has) is exciting.
