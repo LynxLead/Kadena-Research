@@ -32,6 +32,7 @@
 
 ## 🪙 Other Crypto Projects
 
+* [DAGs](other-crypto-projects/dags.md)
 * [ETH ENDGAME](other-crypto-projects/eth-endgame.md)
 * [Thorchain](other-crypto-projects/thorchain.md)
 
