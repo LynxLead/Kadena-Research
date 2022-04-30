@@ -33,6 +33,7 @@
 
 ## 🪙 Other Crypto Projects
 
+* [NEAR](other-crypto-projects/near.md)
 * [DAGs](other-crypto-projects/dags.md)
 * [ETH ENDGAME](other-crypto-projects/eth-endgame.md)
 * [Thorchain](other-crypto-projects/thorchain.md)
