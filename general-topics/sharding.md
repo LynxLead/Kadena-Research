@@ -22,7 +22,7 @@ With POW, the _work_ done is pinned to an external reality (hash difficulty) whi
 
 Regardless, all sharded POS networks basically degrade to one of two models in practice: high-centralization w/ supernodes (ZIL/hashgraph) or hub-and-spoke.
 
-POW doesn't have this issue bceause POW is pinned to the external world (you can validate a header's POW w/o having to download the chain) + POW is stochastic, which allows for a seemless production of blocks in parallel
+POW doesn't have this issue because POW is pinned to the external world (you can validate a header's POW w/o having to download the chain) + POW is stochastic, which allows for a seamless production of blocks in parallel
 
 ***
 
