@@ -16,13 +16,13 @@ Moreover, dapp devs can loadbalance contracts on KDA as well. A popular dapp lik
 
 ***
 
-I wouldn't say anyone agrees what "POS Sharding" is yet. The ETH2.0 people have some magic fairy dust idea, the Cosmos people are grounded in reality that sharding+POS doesn't work so they got for a Hub-Spoke model (layer-1 single chain, layer 2 spokes), and every other project falls somewhere in between. I have zero idea how POS's security doesn't degrade as a POS attempts to scale up. POS already has massive security problems that sharding exacerbates daramtically
+I wouldn't say anyone agrees what "POS Sharding" is yet. The ETH2.0 people have some magic fairy dust idea, the Cosmos people are grounded in reality that sharding+POS doesn't work so they got for a Hub-Spoke model (layer-1 single chain, layer 2 spokes), and every other project falls somewhere in between. I have zero idea how POS's security doesn't degrade as a POS attempts to scale up. POS already has massive security problems that sharding exacerbates dramatically
 
 With POW, the _work_ done is pinned to an external reality (hash difficulty) which makes it quick for anyone to verify (rehash+count the zeros). With POS, the "proof" is pinned to an internal reality aka _the stake_.
 
 Regardless, all sharded POS networks basically degrade to one of two models in practice: high-centralization w/ supernodes (ZIL/hashgraph) or hub-and-spoke.
 
-POW odesn't have this issue bceause POW is pinned to the external world (you can validate a header's POW w/o having to download the chain) + POW is stochastic, which allows for a seemless production of blocks in parallel
+POW doesn't have this issue bceause POW is pinned to the external world (you can validate a header's POW w/o having to download the chain) + POW is stochastic, which allows for a seemless production of blocks in parallel
 
 ***
 
